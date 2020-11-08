@@ -2,6 +2,11 @@
 	border: 2px solid black;
 	
 }
+.cabecera {
+	width: 90%;
+	height: 10%;
+	position:absolute;
+}
 
 body {
 	color: black;
